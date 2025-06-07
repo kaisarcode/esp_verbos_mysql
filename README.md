@@ -4,12 +4,6 @@ Este repositorio contiene una base de datos en formato MySQL con conjugaciones d
 
 La base de datos incluye conjugaciones para múltiples modos, tiempos y personas gramaticales, estructuradas en una tabla llamada `conjugaciones`.
 
-## Créditos
-
-Este proyecto es una adaptación del trabajo de [@asosab](https://github.com/asosab), quien recopiló y generó las conjugaciones en su repositorio [esp_verbos](https://github.com/asosab/esp_verbos).
-
-La licencia utilizada es la misma que la del proyecto original: **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
-
 ## Estructura de la tabla "conjugaciones"
 
 | Campo        | Tipo           | Descripción                                   |
@@ -21,8 +15,16 @@ La licencia utilizada es la misma que la del proyecto original: **Creative Commo
 | tiempo       | varchar(32)    | Tiempo verbal (presente, pasado, etc.)        |
 | persona      | varchar(32)    | Persona gramatical (yo, tú, él, etc.)         |
 
+## Créditos
+
+Este proyecto es una adaptación del trabajo de [@asosab](https://github.com/asosab), quien recopiló y generó las conjugaciones en su repositorio [esp_verbos](https://github.com/asosab/esp_verbos).
+
+La licencia utilizada es la misma que la del proyecto original: **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+
 ---
 
 ## Licencia
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Este proyecto se distribuye bajo la licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**, en concordancia con el proyecto original.
