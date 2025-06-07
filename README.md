@@ -10,7 +10,7 @@ Este proyecto es una adaptación del trabajo de [@asosab](https://github.com/aso
 
 La licencia utilizada es la misma que la del proyecto original: **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
 
-## Estructura de la tabla `conjugaciones`
+## Estructura de la tabla "conjugaciones"
 
 | Campo        | Tipo           | Descripción                                   |
 |--------------|----------------|-----------------------------------------------|
@@ -22,8 +22,6 @@ La licencia utilizada es la misma que la del proyecto original: **Creative Commo
 | persona      | varchar(32)    | Persona gramatical (yo, tú, él, etc.)         |
 
 ---
-
-Para más detalles, consulta el repositorio original [asosab/esp_verbos](https://github.com/asosab/esp_verbos).
 
 ## Licencia
 
