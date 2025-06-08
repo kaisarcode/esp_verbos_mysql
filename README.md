@@ -23,64 +23,64 @@ Por lo tanto, esta base contiene solo las formas conjugadas principales sin auxi
 
 Por esa razón, agrego una referencia a ellos aquí:
 
-| Auxiliar    | Modo        | Tiempo      |
-|-------------|-------------|-------------|
-| habré       | perfecto    | futuro      |
-| habrás      | perfecto    | futuro      |
-| habrá       | perfecto    | futuro      |
-| habremos    | perfecto    | futuro      |
-| habréis     | perfecto    | futuro      |
-| habrán      | perfecto    | futuro      |
-| había       | perfecto    | imperfecto  |
-| habías      | perfecto    | imperfecto  |
-| habíamos    | perfecto    | imperfecto  |
-| habíais     | perfecto    | imperfecto  |
-| habían      | perfecto    | imperfecto  |
-| habría      | perfecto    | condicional |
-| habrías     | perfecto    | condicional |
-| habríamos   | perfecto    | condicional |
-| habríais    | perfecto    | condicional |
-| habrían     | perfecto    | condicional |
-| he          | perfecto    | presente    |
-| has         | perfecto    | presente    |
-| ha          | perfecto    | presente    |
-| hemos       | perfecto    | presente    |
-| habéis      | perfecto    | presente    |
-| han         | perfecto    | presente    |
-| hube        | perfecto    | pretérito   |
-| hubiste     | perfecto    | pretérito   |
-| hubo        | perfecto    | pretérito   |
-| hubimos     | perfecto    | pretérito   |
-| hubisteis   | perfecto    | pretérito   |
-| hubieron    | perfecto    | pretérito   |
-| esté        | subjuntivo  | presente    |
-| estés       | subjuntivo  | presente    |
-| esté        | subjuntivo  | presente    |
-| estemos     | subjuntivo  | presente    |
-| estéis      | subjuntivo  | presente    |
-| estén       | subjuntivo  | presente    |
-| estaré      | indicativo  | futuro      |
-| estarás     | indicativo  | futuro      |
-| estará      | indicativo  | futuro      |
-| estaremos   | indicativo  | futuro      |
-| estaréis    | indicativo  | futuro      |
-| estarán     | indicativo  | futuro      |
-| estaba      | indicativo  | imperfecto  |
-| estabas     | indicativo  | imperfecto  |
-| estábamos   | indicativo  | imperfecto  |
-| estabais    | indicativo  | imperfecto  |
-| estaban     | indicativo  | imperfecto  |
-| estuve      | indicativo  | pretérito   |
-| estuviste   | indicativo  | pretérito   |
-| estuvo      | indicativo  | pretérito   |
-| estuvimos   | indicativo  | pretérito   |
-| estuvisteis | indicativo  | pretérito   |
-| estuvieron  | indicativo  | pretérito   |
-| estaría     | condicional | condicional |
-| estarías    | condicional | condicional |
-| estaríamos  | condicional | condicional |
-| estaríais   | condicional | condicional |
-| estarían    | condicional | condicional |
+| Auxiliar    | Modo        | Tiempo      | Ejemplo                         |
+|-------------|-------------|-------------|--------------------------------|
+| habré       | perfecto    | futuro      | Yo habré terminado mañana      |
+| habrás      | perfecto    | futuro      | Tú habrás llegado temprano      |
+| habrá       | perfecto    | futuro      | Él habrá comido antes de salir  |
+| habremos    | perfecto    | futuro      | Nosotros habremos terminado     |
+| habréis     | perfecto    | futuro      | Vosotros habréis estudiado      |
+| habrán      | perfecto    | futuro      | Ellos habrán llegado ya         |
+| había       | perfecto    | imperfecto  | Yo había salido cuando llamaste |
+| habías      | perfecto    | imperfecto  | Tú habías visto la película     |
+| habíamos    | perfecto    | imperfecto  | Nosotros habíamos terminado     |
+| habíais     | perfecto    | imperfecto  | Vosotros habíais estudiado      |
+| habían      | perfecto    | imperfecto  | Ellos habían comido             |
+| habría      | perfecto    | condicional | Yo habría ido si pudiera        |
+| habrías     | perfecto    | condicional | Tú habrías hecho lo correcto    |
+| habríamos   | perfecto    | condicional | Nosotros habríamos comprado eso |
+| habríais    | perfecto    | condicional | Vosotros habríais ganado        |
+| habrían     | perfecto    | condicional | Ellos habrían terminado        |
+| he          | perfecto    | presente    | Yo he comido                    |
+| has         | perfecto    | presente    | Tú has llegado                  |
+| ha          | perfecto    | presente    | Él ha visto la película         |
+| hemos       | perfecto    | presente    | Nosotros hemos hablado          |
+| habéis      | perfecto    | presente    | Vosotros habéis escrito         |
+| han         | perfecto    | presente    | Ellos han salido                |
+| hube        | perfecto    | pretérito   | Yo hube terminado               |
+| hubiste     | perfecto    | pretérito   | Tú hubiste hablado              |
+| hubo        | perfecto    | pretérito   | Él hubo llegado tarde           |
+| hubimos     | perfecto    | pretérito   | Nosotros hubimos ganado         |
+| hubisteis   | perfecto    | pretérito   | Vosotros hubisteis llegado      |
+| hubieron    | perfecto    | pretérito   | Ellos hubieron terminado       |
+| esté        | subjuntivo  | presente    | Espero que él esté bien         |
+| estés       | subjuntivo  | presente    | Quiero que tú estés feliz       |
+| esté        | subjuntivo  | presente    | Que ella esté preparada         |
+| estemos     | subjuntivo  | presente    | Es importante que estemos juntos|
+| estéis      | subjuntivo  | presente    | Espero que vosotros estéis aquí |
+| estén       | subjuntivo  | presente    | Ojalá que ellos estén listos    |
+| estaré      | indicativo  | futuro      | Yo estaré en casa mañana        |
+| estarás     | indicativo  | futuro      | Tú estarás contento             |
+| estará      | indicativo  | futuro      | Él estará cansado               |
+| estaremos   | indicativo  | futuro      | Nosotros estaremos listos       |
+| estaréis    | indicativo  | futuro      | Vosotros estaréis felices       |
+| estarán     | indicativo  | futuro      | Ellos estarán en la reunión     |
+| estaba      | indicativo  | imperfecto  | Yo estaba trabajando            |
+| estabas     | indicativo  | imperfecto  | Tú estabas leyendo              |
+| estábamos   | indicativo  | imperfecto  | Nosotros estábamos en casa      |
+| estabais    | indicativo  | imperfecto  | Vosotros estabais en la playa   |
+| estaban     | indicativo  | imperfecto  | Ellos estaban jugando           |
+| estuve      | indicativo  | pretérito   | Yo estuve en la fiesta          |
+| estuviste   | indicativo  | pretérito   | Tú estuviste allí               |
+| estuvo      | indicativo  | pretérito   | Él estuvo enfermo               |
+| estuvimos   | indicativo  | pretérito   | Nosotros estuvimos juntos       |
+| estuvisteis | indicativo  | pretérito   | Vosotros estuvisteis ausentes   |
+| estuvieron  | indicativo  | pretérito   | Ellos estuvieron en la casa     |
+| estaría     | condicional | condicional | Yo estaría más feliz allí       |
+| estarías    | condicional | condicional | Tú estarías mejor descansando   |
+| estaríamos  | condicional | condicional | Nosotros estaríamos de acuerdo  |
+| estaríais   | condicional | condicional | Vosotros estaríais felices      |
+| estarían    | condicional | condicional | Ellos estarían esperando        |
 
 ## Créditos
 
