@@ -23,64 +23,64 @@ Por lo tanto, esta base contiene solo las formas conjugadas principales sin auxi
 
 Por esa razón, agrego una referencia a ellos aquí:
 
-| Auxiliar      | Verbo  | Modo        | Tiempo        |
-|---------------|--------|-------------|---------------|
-| habré         | haber  | perfecto    | futuro        |
-| habrás        | haber  | perfecto    | futuro        |
-| habrá         | haber  | perfecto    | futuro        |
-| habremos      | haber  | perfecto    | futuro        |
-| habréis       | haber  | perfecto    | futuro        |
-| habrán        | haber  | perfecto    | futuro        |
-| había         | haber  | perfecto    | imperfecto    |
-| habías        | haber  | perfecto    | imperfecto    |
-| habíamos      | haber  | perfecto    | imperfecto    |
-| habíais       | haber  | perfecto    | imperfecto    |
-| habían        | haber  | perfecto    | imperfecto    |
-| habría        | haber  | perfecto    | condicional   |
-| habrías       | haber  | perfecto    | condicional   |
-| habríamos     | haber  | perfecto    | condicional   |
-| habríais      | haber  | perfecto    | condicional   |
-| habrían       | haber  | perfecto    | condicional   |
-| he            | haber  | perfecto    | presente      |
-| has           | haber  | perfecto    | presente      |
-| ha            | haber  | perfecto    | presente      |
-| hemos         | haber  | perfecto    | presente      |
-| habéis        | haber  | perfecto    | presente      |
-| han           | haber  | perfecto    | presente      |
-| hube          | haber  | perfecto    | pretérito     |
-| hubiste       | haber  | perfecto    | pretérito     |
-| hubo          | haber  | perfecto    | pretérito     |
-| hubimos       | haber  | perfecto    | pretérito     |
-| hubisteis     | haber  | perfecto    | pretérito     |
-| hubieron      | haber  | perfecto    | pretérito     |
-| esté          | estar  | subjuntivo  | presente      |
-| estés         | estar  | subjuntivo  | presente      |
-| esté          | estar  | subjuntivo  | presente      |
-| estemos       | estar  | subjuntivo  | presente      |
-| estéis        | estar  | subjuntivo  | presente      |
-| estén         | estar  | subjuntivo  | presente      |
-| estaré        | estar  | indicativo  | futuro        |
-| estarás       | estar  | indicativo  | futuro        |
-| estará        | estar  | indicativo  | futuro        |
-| estaremos     | estar  | indicativo  | futuro        |
-| estaréis      | estar  | indicativo  | futuro        |
-| estarán       | estar  | indicativo  | futuro        |
-| estaba        | estar  | indicativo  | imperfecto    |
-| estabas       | estar  | indicativo  | imperfecto    |
-| estábamos     | estar  | indicativo  | imperfecto    |
-| estabais      | estar  | indicativo  | imperfecto    |
-| estaban       | estar  | indicativo  | imperfecto    |
-| estuve        | estar  | indicativo  | pretérito     |
-| estuviste     | estar  | indicativo  | pretérito     |
-| estuvo        | estar  | indicativo  | pretérito     |
-| estuvimos     | estar  | indicativo  | pretérito     |
-| estuvisteis   | estar  | indicativo  | pretérito     |
-| estuvieron    | estar  | indicativo  | pretérito     |
-| estaría       | estar  | condicional | condicional   |
-| estarías      | estar  | condicional | condicional   |
-| estaríamos    | estar  | condicional | condicional   |
-| estaríais     | estar  | condicional | condicional   |
-| estarían      | estar  | condicional | condicional   |
+| Auxiliar    | Modo        | Tiempo      |
+|-------------|-------------|-------------|
+| habré       | perfecto    | futuro      |
+| habrás      | perfecto    | futuro      |
+| habrá       | perfecto    | futuro      |
+| habremos    | perfecto    | futuro      |
+| habréis     | perfecto    | futuro      |
+| habrán      | perfecto    | futuro      |
+| había       | perfecto    | imperfecto  |
+| habías      | perfecto    | imperfecto  |
+| habíamos    | perfecto    | imperfecto  |
+| habíais     | perfecto    | imperfecto  |
+| habían      | perfecto    | imperfecto  |
+| habría      | perfecto    | condicional |
+| habrías     | perfecto    | condicional |
+| habríamos   | perfecto    | condicional |
+| habríais    | perfecto    | condicional |
+| habrían     | perfecto    | condicional |
+| he          | perfecto    | presente    |
+| has         | perfecto    | presente    |
+| ha          | perfecto    | presente    |
+| hemos       | perfecto    | presente    |
+| habéis      | perfecto    | presente    |
+| han         | perfecto    | presente    |
+| hube        | perfecto    | pretérito   |
+| hubiste     | perfecto    | pretérito   |
+| hubo        | perfecto    | pretérito   |
+| hubimos     | perfecto    | pretérito   |
+| hubisteis   | perfecto    | pretérito   |
+| hubieron    | perfecto    | pretérito   |
+| esté        | subjuntivo  | presente    |
+| estés       | subjuntivo  | presente    |
+| esté        | subjuntivo  | presente    |
+| estemos     | subjuntivo  | presente    |
+| estéis      | subjuntivo  | presente    |
+| estén       | subjuntivo  | presente    |
+| estaré      | indicativo  | futuro      |
+| estarás     | indicativo  | futuro      |
+| estará      | indicativo  | futuro      |
+| estaremos   | indicativo  | futuro      |
+| estaréis    | indicativo  | futuro      |
+| estarán     | indicativo  | futuro      |
+| estaba      | indicativo  | imperfecto  |
+| estabas     | indicativo  | imperfecto  |
+| estábamos   | indicativo  | imperfecto  |
+| estabais    | indicativo  | imperfecto  |
+| estaban     | indicativo  | imperfecto  |
+| estuve      | indicativo  | pretérito   |
+| estuviste   | indicativo  | pretérito   |
+| estuvo      | indicativo  | pretérito   |
+| estuvimos   | indicativo  | pretérito   |
+| estuvisteis | indicativo  | pretérito   |
+| estuvieron  | indicativo  | pretérito   |
+| estaría     | condicional | condicional |
+| estarías    | condicional | condicional |
+| estaríamos  | condicional | condicional |
+| estaríais   | condicional | condicional |
+| estarían    | condicional | condicional |
 
 ## Créditos
 
