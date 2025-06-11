@@ -2,9 +2,9 @@
 
 Este repositorio contiene una base de datos en formato MySQL con conjugaciones de verbos en español, basada en el trabajo original de [asosab/esp_verbos](https://github.com/asosab/esp_verbos).
 
-La base de datos incluye conjugaciones para múltiples modos, tiempos y personas gramaticales, estructuradas en una tabla llamada `conjugaciones`.
+La base de datos incluye conjugaciones para múltiples modos, tiempos y personas gramaticales, estructuradas en una tabla llamada `verbos_es`.
 
-## Estructura de la tabla "conjugaciones"
+## Estructura de la tabla "verbos_es"
 
 | Campo        | Tipo           | Descripción                                   |
 |--------------|----------------|-----------------------------------------------|
@@ -99,7 +99,6 @@ Por esa razón, agrego una referencia a ellos aquí:
 | hayamos     | perfecto_subjuntivo| presente    | Espero que nosotros hayamos visto|
 | hayáis      | perfecto_subjuntivo| presente    | Espero que vosotros hayáis oído  |
 | hayan       | perfecto_subjuntivo| presente    | Espero que ellos hayan venido    |
-
 
 ## Créditos
 
