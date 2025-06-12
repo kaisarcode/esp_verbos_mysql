@@ -2,18 +2,18 @@
 
 Este repositorio contiene una base de datos en formato MySQL con conjugaciones de verbos en español, basada en el trabajo original de [asosab/esp_verbos](https://github.com/asosab/esp_verbos).
 
-La base de datos incluye conjugaciones para múltiples modos, tiempos y personas gramaticales, estructuradas en una tabla llamada `verbos_es`.
+La base de datos incluye conjugaciones para múltiples modos, tiempos y personas gramaticales, estructuradas en una tabla llamada `verbs_es`.
 
-## Estructura de la tabla "verbos_es"
+## Estructura de la tabla "verbs_es"
 
 | Campo        | Tipo           | Descripción                                   |
 |--------------|----------------|-----------------------------------------------|
 | id           | int            | Identificador único (auto-incremental)        |
-| conjugacion  | varchar(64)    | Forma verbal conjugada                        |
-| verbo        | varchar(64)    | Verbo en infinitivo                           |
-| modo         | enum           | Modo verbal (indicativo, subjuntivo, etc.)    |
-| tiempo       | varchar(32)    | Tiempo verbal (presente, pasado, etc.)        |
-| persona      | varchar(32)    | Persona gramatical (yo, tú, él, etc.)         |
+| conjugation  | varchar(64)    | Forma verbal conjugada                        |
+| verb         | varchar(64)    | Verbo en infinitivo                           |
+| mood         | enum           | Modo verbal (indicativo, subjuntivo, etc.)    |
+| tense        | varchar(32)    | Tiempo verbal (presente, pasado, etc.)        |
+| person       | varchar(32)    | Persona gramatical (yo, tú, él, etc.)         |
 
 ## Nota sobre auxiliares
 
